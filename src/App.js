@@ -1,11 +1,10 @@
 import './assets/App.css';
-import Design from './components/Design';
-
+import Form from './components/Form';
 
 function App() {
   return (
-    <div className="App">
-      <Design />
+    <div className="all-bg">
+      <Form />
     </div>
   );
 }
